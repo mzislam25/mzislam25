@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to put semicolon after the statement;
 
-[Email]: md.zahir25@gmail.com
+[Email]: mailto:md.zahir25@gmail.com
