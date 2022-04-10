@@ -7,10 +7,6 @@
 <a href="mailto:md.zahir25@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-md.zahir25@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mzislam25.mzislam25)
-
-<br />
-
 - 🔭 I’m currently working on workflow automation
 - 🌱 I’m currently learning nestjs, graphql, docker
 - 💬 Ask me about backend-development, deployment strategies and building cool web apps
@@ -50,5 +46,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mzislam25&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzislam25&theme=buefy&layout=compact" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=mzislam25.mzislam25)
 
 <br/>
